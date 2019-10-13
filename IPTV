@@ -1,39 +1,43 @@
-#EXTINF:0,AR: MBC 1
+#EXTM3U
+#EXTINF:0,Groupe title = "Arab",  MBC 1
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/4101.m3u8
-#EXTINF:0,AR: MBC 3
+#EXTINF:0,Groupe title = "Arab",  MBC 3
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/4099.m3u8
-#EXTINF:0,AR: MBC Action
+#EXTINF:0,Groupe title = "Arab",  MBC Action
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/4097.m3u8
-#EXTINF:0,AR: MBC DRAMA
+#EXTINF:0,Groupe title = "Arab",  MBC DRAMA
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/5622.m3u8
-#EXTINF:0,AR: MBC Masr 2
+#EXTINF:0,Groupe title = "Arab",  MBC Masr 2
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/4093.m3u8
-#EXTINF:0,AR: MBC-Action
+#EXTINF:0,Groupe title = "Arab",  MBC Action
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/3552.m3u8
-#EXTINF:0,AR: ROTANA AFLAM
+#EXTINF:0,Groupe title = "Arab",  ROTANA AFLAM
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/21985.m3u8
-#EXTINF:0,AR: ROTANA CLASSIC SD
+#EXTINF:0,Groupe title = "Arab",  ROTANA CLASSIC
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/10359.m3u8
-#EXTINF:0,AR: ROTANA MASSRIA
+#EXTINF:0,Groupe title = "Arab",  ROTANA MASSRIA
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/5637.m3u8
-#EXTINF:0,AR: CAIRO CINEMA
+#EXTINF:0,Groupe title = "Arab",  CAIRO CINEMA
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/1092.m3u8
-#EXTINF:0,AR: LDC
+#EXTINF:0,Groupe title = "Arab",  LDC
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/12246.m3u8
-#EXTINF:0,AR: ART AFLAM 2
+#EXTINF:0,Groupe title = "Arab",  ART AFLAM 2
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/1075.m3u8
-#EXTINF:0,AR: Art Hekayat 2
+#EXTINF:0,Groupe title = "Arab",  Art Hekayat 2
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/5627.m3u8
-#EXTINF:0,AR: B4U AFLAM
+#EXTINF:0,Groupe title = "Arab",  B4U AFLAM
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/13369.m3u8
-#EXTINF:0,AR: NILE COMEDY
+#EXTINF:0,Groupe title = "Arab",  NILE COMEDY
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/3539.m3u8
-#EXTINF:0,AR: ALARABIA
+#EXTINF:0,Groupe title = "Arab",  ALARABIA
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/2068.m3u8
-#EXTINF:0,AR: Zee Alwen
+#EXTINF:0,Groupe title = "Arab",  Zee Alwen
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/5629.m3u8
-#EXTINF:0,AR: STAR MOVIES
+#EXTINF:0,Groupe title = "Arab",  STAR MOVIES
 http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/12855.m3u8
+#EXTINF:0,Groupe title = "Arab",  Syria
+http://hdlivetv.tv:8000/live/HriSAMOZup/iFtX7RAmfk/7368.m3u8
+
 
 <<<<<<<<<<ARAB>>>>>>>>>>
 #EXTINF:-1,Groupe title = "Arab",  MBC 1 HD
